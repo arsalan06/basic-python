@@ -1,0 +1,2 @@
+i am going to overwrite filei am going to append filei am going to append file/ni am going to new line filei am going to append file/n,i am going to new line filei am going to append file
+i am going to new line file
